@@ -47,7 +47,7 @@
 	id result = %orig;
 
 	const int size = 10;
-	float speeds[] = {0.5, 1.0, 1.25, 1.5, 1.75, 2.0, 2.5, 3.0, 3.5, 4.0};
+	float speeds[] = {0.5, 1.0, 1.15, 1.25, 1.50, 1,75, 2.0, 2.5, 3.0, 3.5};
 	id varispeedSwitchControllerOptions[size];
 
 	for (int i = 0; i < size; ++i) {
